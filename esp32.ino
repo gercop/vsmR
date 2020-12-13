@@ -6,8 +6,8 @@
 #include <WiFiUdp.h> //Socket UDP
 
 //WIFI
-const char* ssid = "Bandeirantes";
-const char* password = "59648219";
+const char* ssid = "xxxxxxxxx";
+const char* password = "xxxxxxxx";
 WiFiClient wifiClient; 
 
 //MQTT Server
